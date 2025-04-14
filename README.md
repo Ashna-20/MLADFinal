@@ -76,6 +76,18 @@ Encoding
 
 Model training & evaluation (using RMSE)
 
+## 🌐 Model Deployment with Streamlit
+We deployed our Random Forest Regression model using Streamlit, allowing users to predict the average fuel flow rate based on input features like temperature, time of day, day of the week, and weather conditions.
+
+✅ Features of the Streamlit App:
+User-friendly web interface
+
+Real-time prediction based on user input
+
+Displays model outputs and key visualizations
+
+Includes EDA insights and model explanation
+
 ## 📈 Key Insights from EDA
 Temperature and flow rate are positively correlated — colder weather may reduce fuel performance.
 
