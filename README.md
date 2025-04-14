@@ -100,4 +100,4 @@ Rakshit Bhardwaj
 This project demonstrates how data fusion and predictive analytics can support better resource management at fuel stations. By correlating environmental conditions with performance metrics, we’ve taken the first step toward data-driven operational efficiency.
 
 ## Link to the Jupyter Notebook
-[Project2_Link](https://github.com/Ashna-20/Ashna-Portfolio/blob/main/Restaurant_Locator_System.ipynb)
+[Jupter_File_Link](https://github.com/Ashna-20/MLADFinal/blob/main/Group2_Final_Project.ipynb)
