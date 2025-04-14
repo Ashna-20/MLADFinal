@@ -1,5 +1,12 @@
 # ⛽ Grandmeister Station Fuel Analysis
 
+## 👥 Team Members
+Ashna Batra
+
+Jannat Narang
+
+Rakshit Bhardwaj
+
 ## 🚀 Project Overview
 This project analyzes transactional and environmental data from Grandmeister Station with the goal of predicting average flow rates and identifying patterns in fuel dispensing behavior. By integrating transaction logs with sand ocean weather data, our goal is to optimize equipment usage and reduce operational downtime.
 
@@ -88,13 +95,6 @@ Matplotlib, Seaborn, Plotly – Data visualization
 Scikit-learn – Modeling and pipelines
 
 Google Colab – Cloud-based development
-
-## 👥 Team Members
-Ashna Batra
-
-Jannat Narang
-
-Rakshit Bhardwaj
 
 ## 📌 Conclusion
 This project demonstrates how data fusion and predictive analytics can support better resource management at fuel stations. By correlating environmental conditions with performance metrics, we’ve taken the first step toward data-driven operational efficiency.
