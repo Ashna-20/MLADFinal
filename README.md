@@ -114,5 +114,5 @@ This project demonstrates how data fusion and predictive analytics can support b
 ## Link to the Jupyter Notebook
 [Merged_Dataset_Used](https://github.com/Ashna-20/MLADFinal/blob/main/Cleaned_Transfer_Transations_merged.csv)
 
-[Jupter_File_Link](https://github.com/Ashna-20/MLADFinal/blob/main/Group2_Final_Project.ipynb)
+[Jupter_File_Link](https://github.com/Ashna-20/MLADFinal/blob/main/Final_Notebook_Group2.ipynb)
 
