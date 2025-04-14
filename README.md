@@ -90,7 +90,9 @@ Google Colab – Cloud-based development
 
 ## 👥 Team Members
 Ashna Batra
+
 Jannat Narang
+
 Rakshit Bhardwaj
 
 ## 📌 Conclusion
